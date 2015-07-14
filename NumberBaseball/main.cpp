@@ -5,7 +5,7 @@
 #include <time.h>
 
 using namespace std;
-
+//바꿨습니당!!
 int main()
 {
 	Ranking ranking;  // ranking 선언
